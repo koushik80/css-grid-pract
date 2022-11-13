@@ -1,6 +1,6 @@
 html,
 body {
-    background-color: black;
+    background-color: whitesmoke;
     margin: 10px;
     height: 100vh;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
@@ -16,17 +16,17 @@ body {
 }
 
 .container > div:nth-child(1n) {
-  background-color: #06d6a0;
+  background-color: #46b5dd;
 }
 
 .container > div:nth-child(2n) {
-  background-color: #ef476f;
+  background-color: #46ddb7;
 }
 
 .container > div:nth-child(3n) {
-  background-color: #118ab2;
+  background-color: #ff8080;
 }
 
 .container > div:nth-child(4n) {
-  background-color: #ffd166;
+  background-color: #6A5ACD;
 }
